@@ -31,4 +31,4 @@ MandoDB – [WebSite](https://mandodb.xyz) – Or contact me on Discord ->   Man
 
 
 
-I am not responsible for what you do with this! This script is for learning purposes!
+**I am not responsible for what you do with this! This script is for learning purposes!**
