@@ -28,3 +28,7 @@ bot.login("TOKEN_OF_BOT")
 ## Contact
 
 MandoDB – [WebSite](https://mandodb.xyz) – Or contact me on Discord ->   MandoDB#9845
+
+
+
+I am not responsible for what you do with this! This script is for learning purposes!
